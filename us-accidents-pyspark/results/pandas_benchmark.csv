@@ -1,0 +1,4 @@
+run,input_rows,valid_rows,scan_and_aggregate_seconds,write_seconds,total_seconds,peak_process_memory_mb,reconciliation_status
+1,7728394,7728394,15.9099,0.0107,15.9206,170.41,PASS
+2,7728394,7728394,15.6302,0.0018,15.632,170.41,PASS
+3,7728394,7728394,15.4198,0.0015,15.4213,170.41,PASS

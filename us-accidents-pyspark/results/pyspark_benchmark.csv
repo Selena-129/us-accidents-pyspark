@@ -1,0 +1,4 @@
+run,total_seconds,state_total,year_total,severity_total,reconciliation_status,output_uri
+1,22.4094,7728394,7728394,7728394,PASS,s3://us-accidents-pyspark/results/benchmark/pyspark/run_1/counts
+2,15.4447,7728394,7728394,7728394,PASS,s3://us-accidents-pyspark/results/benchmark/pyspark/run_2/counts
+3,14.9614,7728394,7728394,7728394,PASS,s3://us-accidents-pyspark/results/benchmark/pyspark/run_3/counts

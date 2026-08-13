@@ -1,0 +1,101 @@
+City_State,City,State,Accident_Count,Average_Severity,Severity_3_4_Percentage
+"Miami, FL",Miami,FL,186768,2.1008,9.0026
+"Houston, TX",Houston,TX,169428,2.1828,18.0006
+"Los Angeles, CA",Los Angeles,CA,156491,2.2335,22.9189
+"Charlotte, NC",Charlotte,NC,138345,2.0418,5.5947
+"Dallas, TX",Dallas,TX,130303,2.2631,26.202
+"Orlando, FL",Orlando,FL,109690,2.0676,6.4546
+"Austin, TX",Austin,TX,96604,2.0888,9.2294
+"Raleigh, NC",Raleigh,NC,86066,2.0926,9.8912
+"Nashville, TN",Nashville,TN,72670,2.1405,15.0984
+"Baton Rouge, LA",Baton Rouge,LA,71588,2.0834,9.5365
+"Atlanta, GA",Atlanta,GA,68154,2.5358,49.6552
+"Sacramento, CA",Sacramento,CA,66264,2.1003,10.7102
+"San Diego, CA",San Diego,CA,55504,2.2228,21.8561
+"Phoenix, AZ",Phoenix,AZ,53701,2.1599,18.562
+"Minneapolis, MN",Minneapolis,MN,51488,2.2427,24.194
+"Oklahoma City, OK",Oklahoma City,OK,46092,2.1025,11.2601
+"Richmond, VA",Richmond,VA,41954,2.1112,13.7198
+"Jacksonville, FL",Jacksonville,FL,41529,2.3996,38.4478
+"Tucson, AZ",Tucson,AZ,39304,1.9635,3.7732
+"San Antonio, TX",San Antonio,TX,37318,2.243,24.1144
+"Saint Paul, MN",Saint Paul,MN,37196,2.2608,25.8146
+"Seattle, WA",Seattle,WA,36564,2.2695,25.774
+"Greenville, SC",Greenville,SC,35694,2.1095,12.9349
+"Columbia, SC",Columbia,SC,35018,2.2021,19.9355
+"Portland, OR",Portland,OR,34754,2.1429,14.3149
+"San Jose, CA",San Jose,CA,34531,2.1825,19.3594
+"Indianapolis, IN",Indianapolis,IN,33219,2.2817,27.2284
+"Chicago, IL",Chicago,IL,32035,2.6113,58.895
+"Tampa, FL",Tampa,FL,31193,2.2469,25.2076
+"Denver, CO",Denver,CO,29658,2.4306,41.8133
+"Tulsa, OK",Tulsa,OK,28880,2.0102,2.8878
+"New Orleans, LA",New Orleans,LA,27354,2.1197,13.3728
+"Bronx, NY",Bronx,NY,27297,2.37,35.2383
+"Riverside, CA",Riverside,CA,26317,2.1458,14.3443
+"Fort Lauderdale, FL",Fort Lauderdale,FL,26205,2.3449,32.9174
+"Rochester, NY",Rochester,NY,24743,2.0974,9.7118
+"Detroit, MI",Detroit,MI,24452,2.4447,42.426
+"Grand Rapids, MI",Grand Rapids,MI,24379,2.081,8.3268
+"Kansas City, MO",Kansas City,MO,23859,2.3147,28.484
+"Oakland, CA",Oakland,CA,23571,2.3492,35.6328
+"Dayton, OH",Dayton,OH,23409,2.1088,11.7989
+"San Bernardino, CA",San Bernardino,CA,21990,2.2246,21.6962
+"New York, NY",New York,NY,21699,2.1964,17.4662
+"Omaha, NE",Omaha,NE,21556,2.1789,17.6517
+"Bakersfield, CA",Bakersfield,CA,21390,2.0263,2.2955
+"Brooklyn, NY",Brooklyn,NY,21357,2.3065,28.5012
+"Anaheim, CA",Anaheim,CA,21293,2.0819,7.8336
+"Long Beach, CA",Long Beach,CA,21040,2.3335,32.3574
+"Hialeah, FL",Hialeah,FL,20844,2.0761,6.7118
+"Flint, MI",Flint,MI,20651,2.1562,15.331
+"Salt Lake City, UT",Salt Lake City,UT,20463,2.2214,21.2334
+"Philadelphia, PA",Philadelphia,PA,20384,2.3766,34.1591
+"Fort Worth, TX",Fort Worth,TX,19766,2.4842,46.7722
+"Columbus, OH",Columbus,OH,19254,2.4656,43.4092
+"Corona, CA",Corona,CA,18953,2.1373,13.3857
+"Fort Myers, FL",Fort Myers,FL,18633,2.0614,6.7837
+"Ontario, CA",Ontario,CA,18547,2.2359,23.2598
+"Washington, DC",Washington,DC,18428,2.144,10.7662
+"San Francisco, CA",San Francisco,CA,17775,2.2588,26.4191
+"Fresno, CA",Fresno,CA,17185,2.0037,1.222
+"Saint Louis, MO",Saint Louis,MO,17045,2.6708,63.8545
+"Birmingham, AL",Birmingham,AL,16935,2.3715,36.5279
+"Chattanooga, TN",Chattanooga,TN,16671,2.1366,13.4245
+"Whittier, CA",Whittier,CA,16518,2.2031,19.96
+"Sarasota, FL",Sarasota,FL,16247,2.0849,8.5123
+"Memphis, TN",Memphis,TN,16245,2.2984,30.1816
+"Louisville, KY",Louisville,KY,16221,2.592,57.1666
+"El Paso, TX",El Paso,TX,16038,2.0476,10.0387
+"Spartanburg, SC",Spartanburg,SC,15752,2.121,13.6745
+"Bradenton, FL",Bradenton,FL,15680,2.067,6.537
+"Shreveport, LA",Shreveport,LA,15481,2.0718,7.0603
+"Kissimmee, FL",Kissimmee,FL,15411,2.0701,6.716
+"Cincinnati, OH",Cincinnati,OH,14473,2.4162,38.6444
+"Pittsburgh, PA",Pittsburgh,PA,13926,2.3611,30.7123
+"Saint Petersburg, FL",Saint Petersburg,FL,13794,2.1864,19.2547
+"Pensacola, FL",Pensacola,FL,13269,2.0858,8.5086
+"Milwaukee, WI",Milwaukee,WI,13037,2.3976,37.4243
+"Hayward, CA",Hayward,CA,12702,2.2617,27.1689
+"Lancaster, PA",Lancaster,PA,12555,2.0174,1.9753
+"Norfolk, VA",Norfolk,VA,12264,2.3818,35.3637
+"Augusta, GA",Augusta,GA,12246,2.0267,5.4058
+"Stockton, CA",Stockton,CA,11524,2.0942,9.8664
+"York, PA",York,PA,11438,2.1052,9.11
+"Anderson, SC",Anderson,SC,10884,2.0326,5.2738
+"Cleveland, OH",Cleveland,OH,10692,2.3418,34.8952
+"Baldwin Park, CA",Baldwin Park,CA,10555,2.3974,39.0715
+"Lafayette, LA",Lafayette,LA,10528,2.004,3.3625
+"Irvine, CA",Irvine,CA,10418,2.2973,29.2859
+"Montgomery, AL",Montgomery,AL,10373,2.1946,19.2519
+"Tracy, CA",Tracy,CA,10298,2.2574,26.2769
+"Hollywood, FL",Hollywood,FL,10288,2.329,30.0836
+"Henrico, VA",Henrico,VA,10285,2.0316,5.9893
+"West Palm Beach, FL",West Palm Beach,FL,10169,2.2915,29.1769
+"Myrtle Beach, SC",Myrtle Beach,SC,9706,2.0024,1.5042
+"Pomona, CA",Pomona,CA,9706,2.1643,15.7737
+"Fremont, CA",Fremont,CA,9664,2.3297,33.4748
+"Buffalo, NY",Buffalo,NY,9574,2.3684,35.4502
+"Tempe, AZ",Tempe,AZ,9531,2.0976,10.8593
+"Gardena, CA",Gardena,CA,9479,2.3058,29.8344
+"Ocala, FL",Ocala,FL,9456,2.1153,10.6705

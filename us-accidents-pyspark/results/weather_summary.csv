@@ -1,0 +1,146 @@
+Weather_Condition_Group,Accident_Count,Average_Severity,Severity_3_4_Percentage,Percentage_of_All_Records
+Fair,2560802,2.127,11.7099,33.135
+Mostly Cloudy,1016195,2.2221,20.9393,13.1489
+Cloudy,817082,2.1603,14.2174,10.5725
+Clear,808743,2.368,33.5626,10.4646
+Partly Cloudy,698972,2.2179,20.5147,9.0442
+Overcast,382866,2.3854,34.9503,4.954
+Light Rain,352957,2.2478,22.7951,4.567
+Scattered Clouds,204829,2.3803,35.1552,2.6503
+Missing,173459,2.2548,21.7481,2.2444
+Light Snow,128680,2.2453,20.8976,1.665
+Fog,99238,2.1459,12.4589,1.2841
+Rain,84331,2.2589,24.0244,1.0912
+Haze,76223,2.2131,20.196,0.9863
+Fair / Windy,35671,2.1436,12.5256,0.4616
+Heavy Rain,32309,2.2644,24.7083,0.4181
+Light Drizzle,22684,2.2688,24.2285,0.2935
+Thunder in the Vicinity,17611,2.1571,14.5193,0.2279
+Cloudy / Windy,17035,2.1696,14.8987,0.2204
+T-Storm,16810,2.2073,19.5479,0.2175
+Mostly Cloudy / Windy,16508,2.1792,16.5435,0.2136
+Snow,15537,2.2451,20.0811,0.201
+Thunder,14202,2.1531,14.8148,0.1838
+Light Rain with Thunder,13597,2.1974,19.5852,0.1759
+Smoke,12668,2.2111,18.0218,0.1639
+Wintry Mix,11703,2.1549,12.0909,0.1514
+Partly Cloudy / Windy,10241,2.1719,15.6332,0.1325
+Heavy T-Storm,9671,2.1833,18.3021,0.1251
+Light Rain / Windy,7946,2.1904,16.9519,0.1028
+Light Snow / Windy,6826,2.1292,9.8887,0.0883
+Heavy Snow,5003,2.2367,18.4289,0.0647
+Light Thunderstorms and Rain,4931,2.4366,41.1681,0.0638
+Drizzle,4726,2.2973,24.9471,0.0612
+Thunderstorm,4438,2.4096,38.4858,0.0574
+Patches of Fog,4144,2.2167,20.7288,0.0536
+Mist,3539,2.2622,23.7638,0.0458
+Light Freezing Rain,3465,2.4,33.9971,0.0448
+N/A Precipitation,3252,2.1381,10.0554,0.0421
+Shallow Fog,3068,2.1744,17.1121,0.0397
+Heavy Thunderstorms and Rain,2485,2.4584,43.2596,0.0322
+Rain / Windy,2372,2.1783,16.3997,0.0307
+Thunderstorms and Rain,2217,2.4565,43.4371,0.0287
+Haze / Windy,1595,2.1078,7.21,0.0206
+Heavy Rain / Windy,1523,2.1825,17.7282,0.0197
+Showers in the Vicinity,1514,2.2067,19.2867,0.0196
+Snow / Windy,1285,2.1401,10.6615,0.0166
+Light Freezing Drizzle,1240,2.3581,31.2903,0.016
+Heavy T-Storm / Windy,1096,2.1624,16.6971,0.0142
+Light Freezing Fog,1001,2.3926,32.0679,0.013
+Blowing Snow / Windy,925,2.0703,4.4324,0.012
+Heavy Snow / Windy,902,2.1519,9.867,0.0117
+T-Storm / Windy,813,2.1919,18.5732,0.0105
+Fog / Windy,743,2.0983,7.8062,0.0096
+Blowing Snow,740,2.2865,23.3784,0.0096
+Thunder / Windy,562,2.2011,18.5053,0.0073
+Heavy Drizzle,452,2.3473,30.0885,0.0058
+Drizzle and Fog,393,2.1858,16.7939,0.0051
+Snow and Sleet,350,2.2057,16.8571,0.0045
+Wintry Mix / Windy,331,2.2054,18.429,0.0043
+Blowing Dust / Windy,266,2.1015,10.1504,0.0034
+Light Ice Pellets,262,2.5191,49.6183,0.0034
+Light Rain Shower,259,2.2857,24.7104,0.0034
+Light Sleet,256,2.1094,10.1563,0.0033
+Light Drizzle / Windy,239,2.2929,21.7573,0.0031
+Light Snow and Sleet,204,2.201,15.6863,0.0026
+Freezing Rain,197,2.2284,17.2589,0.0025
+Blowing Dust,189,2.0847,8.9947,0.0024
+Widespread Dust,181,2.1934,18.232,0.0023
+Light Rain Showers,157,2.3694,31.8471,0.002
+Sleet,147,2.1224,8.8435,0.0019
+Rain Showers,123,2.4065,39.8374,0.0016
+Ice Pellets,101,2.3762,34.6535,0.0013
+Snow and Sleet / Windy,96,2.0833,8.3333,0.0012
+Smoke / Windy,95,2.6316,35.7895,0.0012
+Light Freezing Rain / Windy,81,2.2593,17.284,0.001
+Small Hail,75,2.2533,21.3333,0.001
+Rain Shower,59,2.2203,15.2542,8.0E-4
+Sand / Dust Whirlwinds,51,2.1569,13.7255,7.0E-4
+Squalls / Windy,47,2.2979,25.5319,6.0E-4
+Light Snow and Sleet / Windy,45,2.2222,22.2222,6.0E-4
+Light Snow Shower,44,2.1818,11.3636,6.0E-4
+Partial Fog,40,2.075,5.0,5.0E-4
+Hail,39,2.2308,12.8205,5.0E-4
+Light Snow with Thunder,38,2.1053,7.8947,5.0E-4
+Squalls,35,2.2286,20.0,5.0E-4
+Heavy Sleet,33,2.2121,21.2121,4.0E-4
+Freezing Drizzle,30,2.1667,16.6667,4.0E-4
+Thunder / Wintry Mix,29,2.1724,13.7931,4.0E-4
+Sleet / Windy,25,2.08,8.0,3.0E-4
+Light Snow Showers,24,2.6667,45.8333,3.0E-4
+Widespread Dust / Windy,24,2.0833,8.3333,3.0E-4
+Drizzle / Windy,23,2.1739,17.3913,3.0E-4
+Funnel Cloud,22,2.2273,18.1818,3.0E-4
+Light Thunderstorms and Snow,22,2.7727,72.7273,3.0E-4
+Volcanic Ash,22,2.0909,9.0909,3.0E-4
+Snow and Thunder,21,2.0476,4.7619,3.0E-4
+Sand,19,2.0526,5.2632,2.0E-4
+Tornado,19,2.0526,5.2632,2.0E-4
+Freezing Rain / Windy,18,2.1111,5.5556,2.0E-4
+Light Rain Shower / Windy,16,1.875,0.0,2.0E-4
+Light Sleet / Windy,15,2.1333,13.3333,2.0E-4
+Mist / Windy,15,2.0,0.0,2.0E-4
+Thunder and Hail,14,1.9286,0.0,2.0E-4
+Heavy Freezing Rain,11,2.0909,9.0909,1.0E-4
+Light Haze,10,2.2,20.0,1.0E-4
+Thunder / Wintry Mix / Windy,10,2.1,10.0,1.0E-4
+Snow Grains,9,2.2222,22.2222,1.0E-4
+Heavy Snow with Thunder,8,2.625,50.0,1.0E-4
+Heavy Rain Showers,7,2.5714,57.1429,1.0E-4
+Heavy Thunderstorms with Small Hail,7,2.1429,14.2857,1.0E-4
+Patches of Fog / Windy,7,3.1429,71.4286,1.0E-4
+Shallow Fog / Windy,7,2.0,0.0,1.0E-4
+Drifting Snow / Windy,6,2.6667,33.3333,1.0E-4
+Light Snow Grains,6,2.5,50.0,1.0E-4
+Sand / Dust Whirls Nearby,6,2.0,0.0,1.0E-4
+Heavy Freezing Drizzle,5,2.0,0.0,1.0E-4
+Heavy Thunderstorms and Snow,5,2.8,60.0,1.0E-4
+Light Snow Shower / Windy,5,2.0,0.0,1.0E-4
+Low Drifting Snow,5,2.6,60.0,1.0E-4
+Heavy Blowing Snow,4,2.75,75.0,1.0E-4
+Heavy Ice Pellets,4,2.75,75.0,1.0E-4
+Light Fog,4,3.0,100.0,1.0E-4
+Sand / Dust Whirlwinds / Windy,4,2.0,0.0,1.0E-4
+Sleet and Thunder,4,2.0,0.0,1.0E-4
+Duststorm,3,2.3333,33.3333,0.0
+Heavy Rain Shower,3,2.3333,33.3333,0.0
+Light Blowing Snow,3,3.6667,100.0,0.0
+Light Hail,3,2.3333,33.3333,0.0
+Light Thunderstorm,3,2.3333,33.3333,0.0
+Rain Shower / Windy,3,2.0,0.0,0.0
+Thunderstorms and Snow,3,2.3333,33.3333,0.0
+Blowing Sand,2,2.5,50.0,0.0
+Heavy Sleet and Thunder,2,2.0,0.0,0.0
+Rain and Sleet,2,2.5,50.0,0.0
+Snow Showers,2,2.5,50.0,0.0
+Snow and Thunder / Windy,2,2.5,50.0,0.0
+Thunder and Hail / Windy,2,2.5,50.0,0.0
+Blowing Snow Nearby,1,2.0,0.0,0.0
+Drifting Snow,1,2.0,0.0,0.0
+Dust Whirls,1,2.0,0.0,0.0
+Heavy Freezing Rain / Windy,1,3.0,100.0,0.0
+Heavy Rain Shower / Windy,1,2.0,0.0,0.0
+Heavy Sleet / Windy,1,2.0,0.0,0.0
+Heavy Smoke,1,2.0,0.0,0.0
+Partial Fog / Windy,1,3.0,100.0,0.0
+Sand / Windy,1,2.0,0.0,0.0
