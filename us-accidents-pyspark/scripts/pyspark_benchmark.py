@@ -2,7 +2,7 @@
 
 Each timed run reads the raw CSV, validates State/Severity/Start_Time,
 calculates state, year, and severity counts in one grouping-sets aggregation,
-and writes the result to S3. Cluster provisioning time is excluded.
+and writes the result to S3. 
 """
 
 import argparse
