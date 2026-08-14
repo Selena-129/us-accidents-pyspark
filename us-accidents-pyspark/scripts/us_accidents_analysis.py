@@ -1,4 +1,4 @@
-"""Generate report-ready US Accidents summaries from prepared Parquet data."""
+
 
 import argparse
 
