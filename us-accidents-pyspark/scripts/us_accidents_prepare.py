@@ -1,6 +1,6 @@
 """Profile and prepare the US Accidents dataset on Amazon EMR.
 
-Run with spark-submit under Hadoop YARN. The raw CSV is never modified.
+Run with spark submit under Hadoop YARN. 
 """
 
 import argparse
