@@ -1,4 +1,3 @@
-"""Create report-ready charts from the renamed US Accidents result files."""
 
 from pathlib import Path
 
