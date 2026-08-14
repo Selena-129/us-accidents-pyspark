@@ -1,8 +1,7 @@
 """Three-run, full-dataset Pandas benchmark for the US Accidents project.
 
 The workload reads the raw CSV, validates the required fields, and produces
-state counts, year counts, and severity counts. Chunking keeps the run safe on
-an 8 GB Mac while every record is still processed.
+state counts, year counts, and severity counts.
 """
 
 import argparse
